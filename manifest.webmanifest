@@ -1,6 +1,6 @@
 {
-  "name": "tic-tak-toe",
-  "short_name": "Devloped By Ramshin",
+  "name": "tic-tak-toe by Ramshin",
+  "short_name": "tic-tak-toe",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",

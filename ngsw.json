@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612791953493,
+  "timestamp": 1612792365126,
   "index": "https://muhammedramshin.github.io/Tic-tac-toe/index.html",
   "assetGroups": [
     {
@@ -58,7 +58,7 @@
     "https://muhammedramshin.github.io/Tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://muhammedramshin.github.io/Tic-tac-toe/index.html": "906d122d40352972cc463e727ef40a938b398380",
     "https://muhammedramshin.github.io/Tic-tac-toe/main.a6e34cffcaa1098fe418.js": "287c7756f5b47f5fb6e931ec35311a303b9278ce",
-    "https://muhammedramshin.github.io/Tic-tac-toe/manifest.webmanifest": "b83fdc7e65f38dfd81652b2db49e599627dc4529",
+    "https://muhammedramshin.github.io/Tic-tac-toe/manifest.webmanifest": "5ab35d5bb294158c277924fa8fd99d03e3301c57",
     "https://muhammedramshin.github.io/Tic-tac-toe/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "https://muhammedramshin.github.io/Tic-tac-toe/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://muhammedramshin.github.io/Tic-tac-toe/styles.404720e8bbfb09b87983.css": "825cd8cd19293a36bc55f15f33f59ec9300dd19a"
