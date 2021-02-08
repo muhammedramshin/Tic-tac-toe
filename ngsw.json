@@ -1,0 +1,84 @@
+{
+  "configVersion": 1,
+  "timestamp": 1612791953493,
+  "index": "https://muhammedramshin.github.io/Tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://muhammedramshin.github.io/Tic-tac-toe/favicon.ico",
+        "https://muhammedramshin.github.io/Tic-tac-toe/index.html",
+        "https://muhammedramshin.github.io/Tic-tac-toe/main.a6e34cffcaa1098fe418.js",
+        "https://muhammedramshin.github.io/Tic-tac-toe/manifest.webmanifest",
+        "https://muhammedramshin.github.io/Tic-tac-toe/polyfills.a4021de53358bb0fec14.js",
+        "https://muhammedramshin.github.io/Tic-tac-toe/runtime.e227d1a0e31cbccbf8ec.js",
+        "https://muhammedramshin.github.io/Tic-tac-toe/styles.404720e8bbfb09b87983.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/bgc.jpg",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-96x96.png",
+        "https://muhammedramshin.github.io/Tic-tac-toe/bgc.6ef4e5ac05e4b334d49d.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/bgc.jpg": "f6269264a07b18ba3fbd15c05b9adad964c13fd4",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-128x128.png": "a0533492bc9bcbade2841c2c0e1fb86d8322688c",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-144x144.png": "7dc8a0e9bf86f022651b14b4062ba39d7ad64b42",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-152x152.png": "2c0769bf9b53e7f7d2e9fe07deff9dcaf0ccd3b8",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-192x192.png": "686fdf47f1630d963089c6b86415b8f4515084e5",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-384x384.png": "15db7c00e94fc5b1654e02c9f6a59db915aa56bb",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-512x512.png": "1310de49d72c531f1e0048a4e7d9f287d4c53f5d",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-72x72.png": "a42914dea1461bd6933d4170d796e865b3ada8cb",
+    "https://muhammedramshin.github.io/Tic-tac-toe/assets/icons/icon-96x96.png": "9af2e377cef7354fc0ab2bcbb51954b0edc0c536",
+    "https://muhammedramshin.github.io/Tic-tac-toe/bgc.6ef4e5ac05e4b334d49d.jpg": "f6269264a07b18ba3fbd15c05b9adad964c13fd4",
+    "https://muhammedramshin.github.io/Tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://muhammedramshin.github.io/Tic-tac-toe/index.html": "906d122d40352972cc463e727ef40a938b398380",
+    "https://muhammedramshin.github.io/Tic-tac-toe/main.a6e34cffcaa1098fe418.js": "287c7756f5b47f5fb6e931ec35311a303b9278ce",
+    "https://muhammedramshin.github.io/Tic-tac-toe/manifest.webmanifest": "b83fdc7e65f38dfd81652b2db49e599627dc4529",
+    "https://muhammedramshin.github.io/Tic-tac-toe/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "https://muhammedramshin.github.io/Tic-tac-toe/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://muhammedramshin.github.io/Tic-tac-toe/styles.404720e8bbfb09b87983.css": "825cd8cd19293a36bc55f15f33f59ec9300dd19a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
